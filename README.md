@@ -20,7 +20,7 @@ Contributions are welcome. Please fork the repository and submit a pull request 
 ## Installation
 Clone this repository to your local machine using the following command:
 ```bash
-git clone [repository-url]
+gh repo clone rbxrootx/SubDriller
 ```
 ## Usage
 To use the script, run it from the command line with a domain as an argument:
