@@ -13,9 +13,6 @@ The script will display a table with the URL of each subdomain and its HTTP stat
 ## Contributing
 Contributions are welcome. Please fork the repository and submit a pull request with your changes.
 
-## License
-This project is licensed under the [license-name]. See the LICENSE file for details.
-
 ## Prerequisites
 - Bash
 - curl: Install curl on your system if it's not already installed.
